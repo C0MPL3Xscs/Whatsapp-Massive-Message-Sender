@@ -19,3 +19,5 @@ How it works:
 ## ADITIONAL INFO:
 **Please note that sending Massive numbers of Messages is against Whatsapp terms of service and can make your acount get banned.
 This code should be used for educational proposes only and so i am not responsable for any problems provenient from the use of this code with malitious intentions.**
+
+Found this helpful? You can support me by [Buying me a coffe ☕ ](https://www.buymeacoffee.com/samukasamp)
